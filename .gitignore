@@ -1,0 +1,8 @@
+# Build artifacts — regenerable, large, platform-specific.
+*.a
+*.bundle
+*.so
+*.o
+*.dSYM/
+ext/demo/Makefile
+ext/demo/mkmf.log
